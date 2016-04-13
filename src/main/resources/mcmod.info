@@ -1,0 +1,16 @@
+[
+{
+  "modid": "EndlessEnchantments",
+  "name": "EndlessEnchantments",
+  "description": "Allows enchanted items to be enchanted again",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Roxox1/QVBA"],
+  "credits": "Roxox1/QVBA",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
